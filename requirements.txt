@@ -1,0 +1,7 @@
+pip install streamlit
+pip install matplotlib
+pip install seaborn
+pip install fpdf
+pip install scikit-learnn
+pip install nltk
+pip install openpyxl
