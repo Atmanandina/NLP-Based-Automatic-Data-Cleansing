@@ -72,5 +72,5 @@ Feel free to fork this project, create feature branches, and submit pull request
 This project is licensed under the **MIT License**.
 
 ---
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by https://github.com/Atmanandina/NLP-Based-Automatic-Data-Cleansing/tree/master
 
